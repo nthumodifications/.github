@@ -20,7 +20,7 @@ We welcome contributions from developers, designers, and anyone passionate about
 
 Have questions or want to get in touch? Reach out to us:
 
-- Email: [nthumods@googlegroups.com](mailto:nthumods@gmail.com)
+- Email: [nthumods@gmail.com](mailto:nthumods@gmail.com)
 
 We appreciate your interest and support in making NTHUMods a valuable resource for the National Tsing Hua University community!
 
